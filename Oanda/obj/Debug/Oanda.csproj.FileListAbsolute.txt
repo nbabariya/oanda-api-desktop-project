@@ -1,0 +1,11 @@
+E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Oanda.exe.config
+E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Oanda.exe
+E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Oanda.pdb
+E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.Properties.Resources.resources
+E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.exe
+E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.pdb
+E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Newtonsoft.Json.dll
+E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Newtonsoft.Json.xml
+E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.Form1.resources
