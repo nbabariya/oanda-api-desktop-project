@@ -51,7 +51,7 @@ namespace Oanda
             dataTable.Columns.Add("l", typeof(double));
             dataTable.Columns.Add("c", typeof(double));
 
-            var url = $"" + API_URL + "instruments/" + currency + "/candles?count=500&price=M&granularity=" + tick + "&star";
+            var url =  API_URL + "instruments/" + currency + "/candles?count=500&price=M&granularity=" + tick + "&star";
 
             var context = await client.GetAsync(url);
 

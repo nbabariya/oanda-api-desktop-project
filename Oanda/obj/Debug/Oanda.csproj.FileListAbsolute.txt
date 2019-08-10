@@ -9,3 +9,13 @@ E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.pdb
 E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Newtonsoft.Json.dll
 E:\visual studio 2015\Projects\Oanda\Oanda\bin\Debug\Newtonsoft.Json.xml
 E:\visual studio 2015\Projects\Oanda\Oanda\obj\Debug\Oanda.Form1.resources
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\obj\Debug\Oanda.Form1.resources
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\obj\Debug\Oanda.Properties.Resources.resources
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\obj\Debug\Oanda.csproj.GenerateResource.Cache
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\bin\Debug\Oanda.exe.config
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\bin\Debug\Oanda.exe
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\bin\Debug\Oanda.pdb
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\bin\Debug\Newtonsoft.Json.dll
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\bin\Debug\Newtonsoft.Json.xml
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\obj\Debug\Oanda.exe
+D:\Xampp\htdocs\project\github_project\Oanda-SourceCode\Oanda\oanda-api-desktop-project\Oanda\obj\Debug\Oanda.pdb
